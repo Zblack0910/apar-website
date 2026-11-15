@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /assets/js/
-Disallow: /assets/css/
-Disallow: /assets/fonts/
-
-Sitemap: https://apar-co.ir/sitemap.xml
